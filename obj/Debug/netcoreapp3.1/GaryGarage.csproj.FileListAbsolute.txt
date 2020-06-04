@@ -1,0 +1,13 @@
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\bin\Debug\netcoreapp3.1\GaryGarage.exe
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\bin\Debug\netcoreapp3.1\GaryGarage.deps.json
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\bin\Debug\netcoreapp3.1\GaryGarage.runtimeconfig.json
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\bin\Debug\netcoreapp3.1\GaryGarage.runtimeconfig.dev.json
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\bin\Debug\netcoreapp3.1\GaryGarage.dll
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\bin\Debug\netcoreapp3.1\GaryGarage.pdb
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\obj\Debug\netcoreapp3.1\GaryGarage.csprojAssemblyReference.cache
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\obj\Debug\netcoreapp3.1\GaryGarage.AssemblyInfoInputs.cache
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\obj\Debug\netcoreapp3.1\GaryGarage.AssemblyInfo.cs
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\obj\Debug\netcoreapp3.1\GaryGarage.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\obj\Debug\netcoreapp3.1\GaryGarage.dll
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\obj\Debug\netcoreapp3.1\GaryGarage.pdb
+C:\Users\Alexander Curnow\workspace\csharp\exercises\GaryGarage\obj\Debug\netcoreapp3.1\GaryGarage.genruntimeconfig.cache
