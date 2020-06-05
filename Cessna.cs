@@ -2,12 +2,13 @@ using System;
 
 namespace GaryGarage
 {
-    public class Cessna : Vehicle
+    public class Cessna : Vehicle, IGasVehicle
     {
         double FuelCapacity { get; set; }
+        public int CurrentTankPercentage { get; set; } = 50;
         public void RefuelTank()
         {
-            // noting yet...
+            CurrentTankPercentage = 100;
         }
 
         public override void Drive()
